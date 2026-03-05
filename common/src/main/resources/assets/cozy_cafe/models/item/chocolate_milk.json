@@ -1,0 +1,110 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/glass_cup/default_chocolate_milk"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.0
+      },
+      "model": "cozy_cafe:item/default_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.05882353
+      },
+      "model": "cozy_cafe:item/black_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.11764706
+      },
+      "model": "cozy_cafe:item/blue_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.1764706
+      },
+      "model": "cozy_cafe:item/brown_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.23529412
+      },
+      "model": "cozy_cafe:item/cyan_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.29411766
+      },
+      "model": "cozy_cafe:item/gray_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.3529412
+      },
+      "model": "cozy_cafe:item/green_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.4117647
+      },
+      "model": "cozy_cafe:item/light_blue_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.47058824
+      },
+      "model": "cozy_cafe:item/light_gray_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.5294118
+      },
+      "model": "cozy_cafe:item/lime_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.5882353
+      },
+      "model": "cozy_cafe:item/magenta_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.64705884
+      },
+      "model": "cozy_cafe:item/orange_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.7058824
+      },
+      "model": "cozy_cafe:item/pink_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.7647059
+      },
+      "model": "cozy_cafe:item/purple_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.8235294
+      },
+      "model": "cozy_cafe:item/red_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.88235295
+      },
+      "model": "cozy_cafe:item/white_chocolate_milk"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.9411765
+      },
+      "model": "cozy_cafe:item/yellow_chocolate_milk"
+    }
+  ]
+}

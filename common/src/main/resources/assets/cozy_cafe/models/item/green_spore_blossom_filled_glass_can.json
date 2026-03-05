@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/glass_can/spore_blossom_filled_glass_can",
+    "layer1": "cozy_cafe:item/glass_can/colors/green"
+  }
+}

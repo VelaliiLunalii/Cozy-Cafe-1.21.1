@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/juicer"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cozy_cafe:pressing": 0.0
+      },
+      "model": "cozy_cafe:item/juicer_default"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:pressing": 1.0
+      },
+      "model": "cozy_cafe:item/juicer_pressed"
+    }
+  ]
+}

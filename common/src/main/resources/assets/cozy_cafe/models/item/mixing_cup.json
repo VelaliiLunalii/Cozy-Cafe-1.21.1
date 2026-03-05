@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/mixing_cup"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cozy_cafe:mixing": 0.0
+      },
+      "model": "cozy_cafe:item/mixing_cup_default"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:mixing": 1.0
+      },
+      "model": "cozy_cafe:item/mixing_cup_mixing"
+    }
+  ]
+}

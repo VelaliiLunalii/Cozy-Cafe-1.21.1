@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/glass_can, cocktail_glass/glass_can, cocktail_glass",
+    "layer1": "cozy_cafe:item/glass_can, cocktail_glass/colors/pink"
+  }
+}

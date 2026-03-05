@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/soda_bottle/sweet_berries_filled_soda_bottle",
+    "layer1": "cozy_cafe:item/soda_bottle/colors/purple"
+  }
+}

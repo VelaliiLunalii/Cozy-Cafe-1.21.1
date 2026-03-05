@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cozy_cafe:block/ingredient_shelf",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "cozy_cafe:block/ingredient_shelf",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "cozy_cafe:block/ingredient_shelf"
+    },
+    "facing=west": {
+      "model": "cozy_cafe:block/ingredient_shelf",
+      "y": 90
+    }
+  }
+}

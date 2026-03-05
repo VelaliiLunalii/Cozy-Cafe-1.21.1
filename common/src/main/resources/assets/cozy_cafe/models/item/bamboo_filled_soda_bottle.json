@@ -1,0 +1,110 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/soda_bottle/default_bamboo_filled_soda_bottle"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.0
+      },
+      "model": "cozy_cafe:item/default_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.05882353
+      },
+      "model": "cozy_cafe:item/black_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.11764706
+      },
+      "model": "cozy_cafe:item/blue_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.1764706
+      },
+      "model": "cozy_cafe:item/brown_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.23529412
+      },
+      "model": "cozy_cafe:item/cyan_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.29411766
+      },
+      "model": "cozy_cafe:item/gray_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.3529412
+      },
+      "model": "cozy_cafe:item/green_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.4117647
+      },
+      "model": "cozy_cafe:item/light_blue_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.47058824
+      },
+      "model": "cozy_cafe:item/light_gray_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.5294118
+      },
+      "model": "cozy_cafe:item/lime_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.5882353
+      },
+      "model": "cozy_cafe:item/magenta_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.64705884
+      },
+      "model": "cozy_cafe:item/orange_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.7058824
+      },
+      "model": "cozy_cafe:item/pink_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.7647059
+      },
+      "model": "cozy_cafe:item/purple_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.8235294
+      },
+      "model": "cozy_cafe:item/red_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.88235295
+      },
+      "model": "cozy_cafe:item/white_bamboo_filled_soda_bottle"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.9411765
+      },
+      "model": "cozy_cafe:item/yellow_bamboo_filled_soda_bottle"
+    }
+  ]
+}

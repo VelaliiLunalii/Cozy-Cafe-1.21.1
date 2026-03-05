@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/glass_tumbler/sculk_filled_glass_tumbler",
+    "layer1": "cozy_cafe:item/glass_tumbler/colors/lime"
+  }
+}

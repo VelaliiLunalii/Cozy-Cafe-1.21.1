@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/split_coconut/melon_filled_split_coconut",
+    "layer1": "cozy_cafe:item/split_coconut/colors/magenta"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozy_cafe:item/dye_vat/dye_vat_container"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.0
+      },
+      "model": "cozy_cafe:item/dye_vat_empty"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.05882353
+      },
+      "model": "cozy_cafe:item/dye_vat_black"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.11764706
+      },
+      "model": "cozy_cafe:item/dye_vat_blue"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.1764706
+      },
+      "model": "cozy_cafe:item/dye_vat_brown"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.23529412
+      },
+      "model": "cozy_cafe:item/dye_vat_cyan"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.29411766
+      },
+      "model": "cozy_cafe:item/dye_vat_gray"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.3529412
+      },
+      "model": "cozy_cafe:item/dye_vat_green"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.4117647
+      },
+      "model": "cozy_cafe:item/dye_vat_light_blue"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.47058824
+      },
+      "model": "cozy_cafe:item/dye_vat_light_gray"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.5294118
+      },
+      "model": "cozy_cafe:item/dye_vat_lime"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.5882353
+      },
+      "model": "cozy_cafe:item/dye_vat_magenta"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.64705884
+      },
+      "model": "cozy_cafe:item/dye_vat_orange"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.7058824
+      },
+      "model": "cozy_cafe:item/dye_vat_pink"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.7647059
+      },
+      "model": "cozy_cafe:item/dye_vat_purple"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.8235294
+      },
+      "model": "cozy_cafe:item/dye_vat_red"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.88235295
+      },
+      "model": "cozy_cafe:item/dye_vat_white"
+    },
+    {
+      "predicate": {
+        "cozy_cafe:color": 0.9411765
+      },
+      "model": "cozy_cafe:item/dye_vat_yellow"
+    }
+  ]
+}
